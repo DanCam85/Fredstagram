@@ -190,7 +190,7 @@ const posts = [
     location: "Sheffield",
     avatar: "images/avatar.jpg",
     post: "images/boobies.jpg",
-    comment: "Daddy is looking a boobies heh heh",
+    comment: "Daddy is looking at boobies heh heh",
     date: "4th September 2022",
     likes: 5000000,
   },
