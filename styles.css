@@ -15,9 +15,12 @@ body {
   width: 375px;
   margin: 0 auto;
   border: 1px solid #c6c6c6;
+  padding-top: 54.33px;
 }
 
 header {
+  height: 54.33px;
+  background-color: #fff;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -25,6 +28,8 @@ header {
   border-bottom: 1px solid #c6c6c6;
   padding: 0 16px;
   width: 375px;
+  position: fixed;
+  top: 0;
 }
 
 h1 {
